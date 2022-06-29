@@ -4,7 +4,7 @@ values - массив с набором достоинств
 
 suits - массив с набором мастей
 
-Diamonds - буби;
-Hearts - черви;
-Clubs - крести;
-Spades - пики.
+Diamonds - буби ♦
+Hearts - черви ♥
+Clubs - крести ♣
+Spades - пики ♠
